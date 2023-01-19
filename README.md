@@ -13,7 +13,7 @@
 
 ## Instructions
 
-The starter project contains a class named `Book` with a `main` method that contains comments outline the lab tasks.
+The starter project contains a class named `Book` with a `main` method that contains comments outlining the lab tasks.
 
 You will use IntelliJ's debugger and the Java Visualizer to view object state.
 Recall that you can stop the debugger session at any point by pressing the red square icon:
@@ -30,7 +30,7 @@ or end of program:
 1. Edit the `Book` class to add 5 fields named `title`, `isbn`, `edition`, `pages`, and `language`.
    The title, isbn, and language are strings.  The edition and pages are integers.
 2. Edit the `main()` method to create 3 instances of the `Book` class.  Declare local variables named
-   `book1`, `book2`, and `book3` and assign each variable to reference a new `Book` instances.
+   `book1`, `book2`, and `book3` and assign each variable to reference a new `Book` instance.
 3. Use IntelliJ's Java Visualizer to confirm the state of each object is initialized to default values based on data type.
    
    - Set a breakpoint at the first executable line of code in the `main()` method (code hidden in screen print below, your line number may be different).      
